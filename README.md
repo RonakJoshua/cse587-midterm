@@ -16,4 +16,6 @@ To run the experiments related to introducing typos to the dataset, open and run
 
 ### Extra Information (for Reference)
 
-The dataset can be found as a csv file in the `kaggle_data/` folder.
+- The dataset can be found as a csv file in the `kaggle_data/` folder.
+- The final trained model is stored in the `epoch_typo_15.pth` file.
+- All training was performed using a rented NVIDIA A4000 GPU on Paperspace.
